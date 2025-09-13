@@ -1,0 +1,19 @@
+{
+    "TEST_TRANSFORM": [
+        {
+            "from": 200,
+            "to":   100,
+            "frameTotal": 60,
+            "no_op": false,
+            "curveFunction": "sineCurve"
+        },
+        {
+            "from": 100,
+            "to":   200,
+            "frameTotal": 60,
+            "no_op": false,
+            "curveFunction": "sineCurve"
+        }
+    ]
+    
+}
